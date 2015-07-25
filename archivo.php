@@ -15,15 +15,15 @@
 		<a href="#section-6">Sección 6</a>
 	</nav>
 	
-	<section id="section-1">
+	<section id="section-1" data-type="parallax" data-speed="10">
 		<h1>Sección 1</h1>
 	</section>
 	
-	<section id="section-2">
+	<section id="section-2" data-type="parallax" data-speed="1">
 		<h1>Sección 2</h1>
 	</section>
 	
-	<section id="section-3">
+	<section id="section-3"  data-type="parallax" data-speed="6">
 		<h1>Sección 3</h1>
 	</section>
 	
@@ -81,6 +81,11 @@
 </style>
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="js/jquery.simpleparallax.js"></script>
+<script src="js/jquery.smoothscrolling.js"></script>
+
+<script>
 	
+</script>
 </body>
 </html>
