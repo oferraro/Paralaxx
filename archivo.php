@@ -15,11 +15,11 @@
 		<a href="#section-6">Sección 6</a>
 	</nav>
 	
-	<section id="section-1" data-type="parallax" data-speed="10">
+	<section id="section-1" data-type="parallax" data-speed="4">
 		<h1>Sección 1</h1>
 	</section>
 	
-	<section id="section-2" data-type="parallax" data-speed="1">
+	<section id="section-2" data-type="parallax" data-speed="10">
 		<h1>Sección 2</h1>
 	</section>
 	
@@ -27,15 +27,15 @@
 		<h1>Sección 3</h1>
 	</section>
 	
-	<section id="section-4">
+	<section id="section-4" data-type="parallax" data-speed="6">
 		<h1>Sección 4</h1>
 	</section>
 	
-	<section id="section-5">
+	<section id="section-5" data-type="parallax" data-speed="6">
 		<h1>Sección 5</h1>
 	</section>
 	
-	<section id="section-6">
+	<section id="section-6" data-type="parallax" data-speed="6">
 		<h1>Sección 6</h1>
 	</section>
 	
